@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Reunion",
+		"leaderName": "Talulah",
+		"adjective": ["Infected"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We shall fight for the lives of the Infected.",
+		"startIntroPart2": "Until all the wrongs have been righted and all our sins purged. It will be done. Even if our end is the same, I will burn it all to ashes. Even if I burn to death!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your days of oppressing the Infected is over!",
+		"attacked": "We won't let you harm the Infected ever again!",
+		"defeated": "We have failed but our will to fight for our people will continue to persevere.",
+		"introduction": "Fear not, we just want to help those who are Infected.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
