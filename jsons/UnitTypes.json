@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Caster",
+        "movementType": "Land",
+		"uniques": ["Can see invisible [Caster] units","Can only attack [Land] units"]
+    },
+
+]
