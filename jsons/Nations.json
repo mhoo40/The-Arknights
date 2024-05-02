@@ -6,13 +6,13 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We shall fight for the lives of the Infected.",
-		"startIntroPart2": "Until all the wrongs have been righted and all our sins purged. It will be done. Even if our end is the same, I will burn it all to ashes. Even if I burn to death!",
+		"startIntroPart1": "This land may reject us, but we won't succumb to the disease! We will find a way to save ourselves!",
+		"startIntroPart2": "We are running out of time. The Oripathy is relentless. We have to fight, even if it means becoming monsters ourselve!",
 		
-		"declaringWar": "Your days of oppressing the Infected is over!",
-		"attacked": "We won't let you harm the Infected ever again!",
-		"defeated": "We have failed but our will to fight for our people will continue to persevere.",
-		"introduction": "Fear not, we just want to help those who are Infected.",
+		"declaringWar": "Resistance is futile. Join Reunion, or be crushed!",
+		"attacked": "We are not monsters! We are the Infected, and we are fighting for our right to exist!",
+		"defeated": "Maybe we're not heroes, but we're fighting for our lives. Can't you understand that?",
+		"introduction": "We are Reunion. The Infected's shield, their voice, their fury!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
