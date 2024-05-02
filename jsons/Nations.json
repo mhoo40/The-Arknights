@@ -27,12 +27,11 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [188, 0, 0],
-		"innerColor": [0, 0, 0],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [188, 1, 1],
+		"innerColor": [1, 1, 1],
+		"unique": ["[+1 Production, +1 Faith] per [3] population [in all cities]", "[+15]% Production when constructing [Military] buildings [in all cities]"],
+		"cities": ["Reunion's HQ","Liberation Fronts","Reunion's Camp","Rebel Outpost","Reunion's Camp 2","Scavenger Holds","Spearhead Garrison","Forsaken Workgrounds",
+			"Rebel Camps","Dispossessed Havens","FrostNova's Yeti Squadron","Patriot's Guerrillas Group","My backyard","Undercity Networks","Desolation Plains","Abandoned City","Talulah Cult","Tomatulah the City",
+			"A random place","Infected Citadel","Training Grounds","Boot Camp","I'm running out of names"]
 	}
 ]
