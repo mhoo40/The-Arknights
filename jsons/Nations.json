@@ -24,8 +24,8 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Reunion accepts your ceasefire proposal.",
+		"tradeRequest": "We assure you, this exchange will be mutually beneficial.",
 
 		"outerColor": [188, 1, 1],
 		"innerColor": [1, 1, 1],
