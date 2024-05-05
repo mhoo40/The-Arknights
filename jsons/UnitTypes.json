@@ -1,11 +1,17 @@
 [
-    {
+    	{
         "name": "Caster",
         "movementType": "Land",
 	"uniques": ["[+40]% Strength <vs [Armored] units>",
 		"[-30]% Strength <vs [Melee] units>",
 		"[-25]% Strength <vs [Caster] units><when attacking>",
 		]
-    },
-
+   	},
+	{	
+        "name": "Defender",
+        "movementType": "Land",
+	"uniques": ["[+80]% Strength <vs [non-[Caster]] units><when defending>",
+		"[-50]% Strength <vs [All] units><when attacking>",
+		]
+    	},
 ]
