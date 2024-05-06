@@ -1,9 +1,9 @@
+
 game.png
-size:2048,2048
+size: 2048,2048
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
-repeat:none
-
+repeat: none
 NationIcons/Reunion
   rotate: false
   xy: 0, 100
