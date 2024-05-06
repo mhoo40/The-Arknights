@@ -1,5 +1,27 @@
-unnamed.png
-size:4096,4096
-repeat:none
-Untitled
-bounds:2,2,2046,2046
+
+game.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+UnitIcons/Caster
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Reunion
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Caster
+  rotate: false
+  xy: 0, 1024
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
