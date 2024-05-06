@@ -5,7 +5,7 @@
 		"movement": 1,
 		"range": 2,
 		"strength": 10,
-		"rangedStrength": 10,
+		"rangedStrength": 12,
 		"cost": 100,
 		"requiredTech": "Writing",
 		"attackSound": "phasers"
