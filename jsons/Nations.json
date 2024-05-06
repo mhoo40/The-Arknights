@@ -16,14 +16,15 @@
 		
 		"neutralHello": "How are you doing?",
 		"hateHello": "What do you want now?",
-		//"afterPeace": "Reunion accepts your ceasefire proposal.",
-		"tradeRequest": "We assure you, this exchange will be mutually beneficial.",
 
+		"tradeRequest": "We assure you, this exchange will be mutually beneficial.",
+		
 		"outerColor": [188, 1, 1],
 		"innerColor": [1, 1, 1],
+		"uniqueName": "Reunion",
 		"unique": ["[+1 Production, +1 Faith] per [3] population [in all cities]", "[+15]% Production when constructing [Military] buildings [in all cities]"],
 		"cities": ["Reunion's HQ", "Chernobog", "Liberation Fronts","Reunion's Camp","Rebel Outpost","Scavenger Holds","Spearhead Garrison","Forsaken Workgrounds",
 			"Rebel Camps","Dispossessed Havens","FrostNova's Yeti Squadron","Patriot's Guerrillas Group","My backyard","Undercity Networks","Desolation Plains","Abandoned City","Talulah Cult","Tomatulah the City",
 			"A random place","Infected Citadel","Training Grounds","Boot Camp","I'm running out of names"]
-	}
+	},
 ]
