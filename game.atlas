@@ -20,8 +20,8 @@ NationIcons/Reunion
   index: -1
 TileSets/FantasyHex/Units/Caster
   rotate: false
-  xy: 0, 1024
-  size: 50, 75
-  orig: 50, 75
+  xy: 0, 1020
+  size: 50, 30
+  orig: 50, 30
   offset: 0, 0
   index: -1
