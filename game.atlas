@@ -6,7 +6,7 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 UnitIcons/Caster
   rotate: false
-  xy: 0, 0
+  xy: 2, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -20,7 +20,7 @@ NationIcons/Reunion
   index: -1
 TileSets/FantasyHex/Units/Caster
   rotate: false
-  xy: 0, 1024
+  xy: 2, 1024
   size: 50, 75
   orig: 50, 75
   offset: 0, 0
