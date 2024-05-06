@@ -1,6 +1,6 @@
 [
     	{
-        "name": "Caster",
+        "name": "ArtCaster",
         "movementType": "Land",
 	"uniques": ["[+40]% Strength <vs [Armored] units>",
 		"[-30]% Strength <vs [Melee] units>",
