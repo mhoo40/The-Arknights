@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Caster",
-		"unitType": "ArtCaster",
+		"unitType": "Caster",
 		"movement": 1,
 		"range": 2,
 		"strength": 13,
