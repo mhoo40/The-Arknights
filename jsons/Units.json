@@ -4,8 +4,8 @@
 		"unitType": "ArtCaster",
 		"movement": 1,
 		"range": 2,
-		"strength": 15,
-		"rangedStrength": 22,
+		"strength": 13,
+		"rangedStrength": 18,
 		"cost": 100,
 		"requiredTech": "Writing",
 		"attackSound": "phasers"
