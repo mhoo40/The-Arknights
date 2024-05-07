@@ -24,4 +24,15 @@
 		"obsoleteTech": "Military Science",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Sniper",
+		"unitType": "Archery",
+		"movement": 20,
+		"range": 20,
+		"strength": 10,
+		"rangedStrength": 12,
+		"cost": 0,
+		"uniques": "[20] Sight",
+		"attackSound": "metalhit"
+	},
 ]
