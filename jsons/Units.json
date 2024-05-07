@@ -34,4 +34,24 @@
 		"cost": 0,
 		"attackSound": "metalhit"
 	},
+	
+	{
+		"name": "FrostNova",
+		"unitType": "Caster",
+		//"movement": 2,
+		"movement": 10,
+		"range": 4,
+		"strength": 70,
+		"rangedStrength": 60,
+		//"cost": 400,
+		"cost": 0,
+		//"requiredTech": "Writing",
+		"uniques": [
+		"[1] additional attacks per turn",
+		"Uncapturable",
+		"Never appears as a Barbarian unit",
+		"Limited to [1] per Civilization",
+		],
+		"attackSound": "phasers"
+	},
 ]
