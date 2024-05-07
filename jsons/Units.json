@@ -6,8 +6,9 @@
 		"range": 2,
 		"strength": 10,
 		"rangedStrength": 12,
-		"cost": 70,
-		"requiredTech": "Writing",
+		//"cost": 70,
+		"cost": 1,
+		//"requiredTech": "Writing",
 		"attackSound": "phasers"
 	}
 ]
