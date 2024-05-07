@@ -46,6 +46,7 @@
 		"cost": 0,
 		//"requiredTech": "Iron Working",
 		"uniques": [
+		"[+5] HP when healing <in [Foreign Land] tiles>",
 		"Uncapturable",
 		"Never appears as a Barbarian unit",
 		"Limited to [1] per Civilization",
