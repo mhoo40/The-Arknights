@@ -49,7 +49,7 @@
 		"Never appears as a Barbarian unit",
 		"Limited to [1] per Civilization",
 		],
-		"attackSound": "phasers"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Frost Nova",
