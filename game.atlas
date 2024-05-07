@@ -22,6 +22,6 @@ TileSets/FantasyHex/Units/Caster
   rotate: false
   xy: 0, 1000
   size: 25, 40
-  orig: 25, 40
+  orig: 100, 100
   offset: 0, 0
   index: -1
