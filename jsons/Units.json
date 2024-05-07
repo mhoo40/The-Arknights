@@ -25,6 +25,18 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Shield Guard",
+		"unitType": "Defender",
+		//"movement": 1,
+		"movement": 10,
+		"strength": 10,
+		//"cost": 140,
+		"cost": 0,
+		//"requiredTech": "Bronze Working",	
+		"obsoleteTech": "Military Science",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Sniper",
 		"unitType": "Archery",
 		"movement": 15,
@@ -34,6 +46,7 @@
 		"cost": 0,
 		"attackSound": "metalhit"
 	},
+	//Reunion Units
 	{
 		"name": "Crownslayer",
 		"unitType": "Assassin",
