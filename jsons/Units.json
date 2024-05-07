@@ -1,4 +1,5 @@
 [
+	//GlobalUnits
 	{
 		"name": "Caster",
 		"unitType": "Caster",
@@ -10,5 +11,17 @@
 		"cost": 0,
 		//"requiredTech": "Writing",
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Shield Guard",
+		"unitType": "Defender",
+		//"movement": 1,
+		"movement": 10,
+		"strength": 12,
+		//"cost": 140,
+		"cost": 0,
+		//"requiredTech": "Bronze Working",	
+		"obsoleteTech": "Military Science",
+		"attackSound": "metalhit"
 	}
 ]
