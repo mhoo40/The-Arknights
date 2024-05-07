@@ -10,8 +10,17 @@
 	{	
         "name": "Defender",
         "movementType": "Land",
-	"uniques": ["[-30]% Strength <vs [All] units><when attacking>",
-		"[+100]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
+	"uniques": ["[-40]% Strength <vs [non-[{Caster} {Ranged}]] units><when attacking>",
+		"[+40]% Strength <vs [non-[Caster] units><when defending>",
+		"[+60]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
+		]
+    	},
+	{	
+        "name": "Special",
+        "movementType": "Land",
+	"uniques": ["Uncapturable",
+		"Never appears as a Barbarian unit",
+		"Limited to [1] per Civilization",
 		]
     	},
 ]
