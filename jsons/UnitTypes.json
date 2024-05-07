@@ -15,12 +15,4 @@
 		"[+80]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
 		]
     	},
-	{	
-        "name": "Special",
-        "movementType": "Land",
-	"uniques": ["Uncapturable",
-		"Never appears as a Barbarian unit",
-		"Limited to [1] per Civilization",
-		]
-    	},
 ]
