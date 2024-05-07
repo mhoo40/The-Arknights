@@ -22,7 +22,7 @@
 		"rangedStrength": 12,
 		//"cost": 140,
 		"cost": 0,
-		"uniques": "Blast radius [2]",
+		"uniques": ["Blast radius [2]"],
 		//"requiredTech": "Writing",
 		"attackSound": "phasers"
 	},
@@ -46,7 +46,7 @@
 		"strength": 10,
 		"rangedStrength": 12,
 		"cost": 0,
-		"uniques": "[20] Sight",
+		"uniques": ["[20] Sight"],
 		"attackSound": "metalhit"
 	},
 ]
