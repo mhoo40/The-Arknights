@@ -1,0 +1,19 @@
+[
+{
+        "name": "Medic",
+        "prerequisites": ["Shock I", "Drill I","Ambush Formation I", "Scouting II", "Survivalism II"],
+        "uniques": [
+            "All adjacent units heal [+5] HP when healing"
+        ],
+        "unitTypes": ["Sword","Gunpowder","Paratrooping","Mounted","Scout"]
+    },
+    {
+        "name": "Medic II",
+        "prerequisites": ["Medic"],
+        "uniques": [
+            "[+5] HP when healing <in [Foreign Land] tiles>",
+            "All adjacent units heal [+5] HP when healing"
+        ],
+        "unitTypes": ["Sword","Gunpowder","Paratrooping","Mounted","Scout"]
+    },
+]
