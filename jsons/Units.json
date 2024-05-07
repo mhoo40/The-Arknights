@@ -14,7 +14,7 @@
 	},
 	{
 		"name": "Blast Caster",
-		"unitType": "Missile",
+		"unitType": "Caster",
 		//"movement": 1,
 		"movement": 6,
 		"range": 2,
