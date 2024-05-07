@@ -12,7 +12,7 @@
         "movementType": "Land",
 	"uniques": ["[-40]% Strength <vs [non-[{Caster} {Ranged}]] units><when attacking>",
 		"[+40]% Strength <vs [non-[Caster] units><when defending>",
-		"[+60]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
+		"[+80]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
 		]
     	},
 	{	
