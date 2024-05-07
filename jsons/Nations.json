@@ -22,7 +22,10 @@
 		"outerColor": [188, 1, 1],
 		"innerColor": [1, 1, 1],
 		"uniqueName": "The Oppressed",
-		"uniques": ["[+1 Production, +1 Faith] per [3] population [in all cities]", "[+15]% Production when constructing [Military] buildings [in all cities]"],
+		"uniques": ["[+1 Production, +1 Faith] per [3] population [in all cities]", 
+			"[+15]% Production when constructing [Military] buildings [in all cities]",
+			"Earn [50]% of killed [All] unit's [Strength] as [Gold]"
+		],
 		"cities": ["Reunion's HQ", "Chernobog", "Liberation Fronts","Reunion's Camp","Rebel Outpost","Scavenger Holds","Spearhead Garrison","Forsaken Workgrounds",
 			"Rebel Camps","Dispossessed Havens","FrostNova's Yeti Squadron","Patriot's Guerrillas Group","My backyard","Undercity Networks","Desolation Plains","Abandoned City","Talulah Cult","Tomatulah the City",
 			"A random place","Infected Citadel","Training Grounds","Boot Camp","I'm running out of names"]
