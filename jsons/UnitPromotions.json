@@ -1,19 +1,12 @@
 [
-{
-        "name": "Medic",
-        "prerequisites": ["Shock I", "Drill I","Ambush Formation I", "Scouting II", "Survivalism II"],
+        {
+        "name": "Heal Instantly",
         "uniques": [
-            "All adjacent units heal [+5] HP when healing"
+            "Heal this unit by [50] HP",
+            "Doing so will consume this opportunity to choose a Promotion"
         ],
-        "unitTypes": ["Sword","Gunpowder","Paratrooping","Mounted","Scout"]
-    },
-    {
-        "name": "Medic II",
-        "prerequisites": ["Medic"],
-        "uniques": [
-            "[+5] HP when healing <in [Foreign Land] tiles>",
-            "All adjacent units heal [+5] HP when healing"
-        ],
-        "unitTypes": ["Sword","Gunpowder","Paratrooping","Mounted","Scout"]
-    },
+        "unitTypes": ["Caster","Defender","Assassin","Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine","Mounted Ranged","Paratrooping"],
+        "row": 0,
+        "column": 0
+        },
 ]
