@@ -24,15 +24,4 @@
 		"obsoleteTech": "Military Science",
 		"attackSound": "metalhit"
 	},
-	{
-		"name": "Sniper",
-		"unitType": "Ranged",
-		"movement": 10,
-		"range": 20,
-		"strength": 10,
-		"rangedStrength": 12,
-		"cost": 0,
-		"uniques": "[30] Sight",
-		"attackSound": "metalhit"
-	},
 ]
