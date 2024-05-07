@@ -22,7 +22,9 @@
 		"rangedStrength": 12,
 		//"cost": 140,
 		"cost": 0,
-		"uniques": ["Blast radius [2]"],
+		"uniques": ["Nuclear weapon of Strength [2]",
+			"Blast radius [2]"
+		],
 		//"requiredTech": "Writing",
 		"attackSound": "phasers"
 	},
