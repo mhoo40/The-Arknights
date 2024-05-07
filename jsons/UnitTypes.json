@@ -10,8 +10,8 @@
 	{	
         "name": "Defender",
         "movementType": "Land",
-	"uniques": ["Damage taken reduced by [70]%",
-		"[-50]% Strength <vs [All] units><when attacking>",
+	"uniques": ["[+100]% Strength <vs [All] units>",
+		"Cannot attack",
 		]
     	},
 ]
