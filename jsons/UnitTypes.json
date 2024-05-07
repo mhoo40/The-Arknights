@@ -11,7 +11,7 @@
         "name": "Defender",
         "movementType": "Land",
 	"uniques": ["[-30]% Strength <vs [All] units><when attacking>",
-		"[+100]% Strength <vs [[{non-[Caster]} {Ranged}]] units><when defending>",
+		"[+100]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
 		]
     	},
 ]
