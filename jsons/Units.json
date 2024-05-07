@@ -42,11 +42,11 @@
 		"name": "Sniper",
 		"unitType": "Archery",
 		"movement": 20,
-		"range": 20,
+		"range": 10,
 		"strength": 10,
 		"rangedStrength": 12,
 		"cost": 0,
-		"uniques": ["[20] Sight"],
+		"uniques": ["[10] Sight"],
 		"attackSound": "metalhit"
 	},
 ]
