@@ -22,7 +22,7 @@
 		"rangedStrength": 12,
 		//"cost": 140,
 		"cost": 0,
-		"uniques": [
+		"uniques": ["Nuclear weapon of Strength [-10]"
 			"Blast radius [5]",
 		],
 		//"requiredTech": "Writing",
