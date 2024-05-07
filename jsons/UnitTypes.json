@@ -10,9 +10,8 @@
 	{	
         "name": "Defender",
         "movementType": "Land",
-	"uniques": ["[+80]% Strength <vs [non-[Caster]] units><when defending>",
+	"uniques": ["Damage taken reduced by [70]%",
 		"[-50]% Strength <vs [All] units><when attacking>",
-		"Damage is ignored when determining unit Strength",
 		]
     	},
 ]
