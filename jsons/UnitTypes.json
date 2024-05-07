@@ -15,4 +15,11 @@
 		"[+80]% Strength <vs [{non-[Caster]} {Ranged}] units><when defending>",
 		]
     	},
+	{	
+        "name": "Assassin",
+        "movementType": "Land",
+	"uniques": ["[+50]% to Flank Attack bonuses",
+		"Invisible to non-adjacent units",
+		]
+    	},
 ]
