@@ -13,6 +13,20 @@
 		"attackSound": "phasers"
 	},
 	{
+		"name": "Blast Caster",
+		"unitType": "Caster",
+		//"movement": 1,
+		"movement": 6,
+		"range": 2,
+		"strength": 10,
+		"rangedStrength": 12,
+		//"cost": 140,
+		"cost": 0,
+		"uniques": "Blast radius [2]",
+		//"requiredTech": "Writing",
+		"attackSound": "phasers"
+	},
+	{
 		"name": "Shield Guard",
 		"unitType": "Defender",
 		//"movement": 1,
