@@ -189,8 +189,8 @@
 		"Unavailable", 
 		//"Will not be displayed in Civilopedia",
 		"Instantly provides [3] [Chimera's SP]",
-		"Instantly consumes [1] [Chimera's SP]<upon turn end><when number of [Chimera's SP] is greater than [0]><hidden from users>",
-		"[+250]% Strength<when number of [Chimera's SP] is greater than [0]>",
+		"Instantly consumes [1] [Chimera's SP]<upon turn end><when number of [Chimera's SP] is more than [0]><hidden from users>",
+		"[+250]% Strength<when number of [Chimera's SP] is more than [0]>",
 		"This Unit takes [100] damage<when number of [Chimera's SP] is equal to [0]><upon turn end>",
 		]
     },
@@ -200,9 +200,9 @@
 		"Unavailable", 
 		//"Will not be displayed in Civilopedia",
 		"Instantly provides [3] [LoF's SP]",
-		"Instantly consumes [1] [LoF's SP]<upon turn end><when number of [LoF's SP] is greater than [0]><hidden from users>",
-		"[7] Movement<when number of [LoF's SP] is greater than [0]>",
-		"[5] additional attacks per turn<when number of [LoF's SP] is greater than [0]>",
+		"Instantly consumes [1] [LoF's SP]<upon turn end><when number of [LoF's SP] is more than [0]><hidden from users>",
+		"[7] Movement<when number of [LoF's SP] is more than [0]>",
+		"[5] additional attacks per turn<when number of [LoF's SP] is more than [0]>",
 		]
     },
     //Mixed
