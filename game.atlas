@@ -1,0 +1,1385 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Angelina the Part-timer
+  rotate: false
+  xy: 1780, 916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gravity Controller
+  rotate: false
+  xy: 428, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kal'tist
+  rotate: false
+  xy: 1888, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/PRTS
+  rotate: false
+  xy: 1162, 474
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Patriot's Guerrillas
+  rotate: false
+  xy: 1270, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yeti Squadron
+  rotate: false
+  xy: 1270, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Reunion
+  rotate: false
+  xy: 1270, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Patriot's Guerrillas
+  rotate: false
+  xy: 1270, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Yeti Squadron
+  rotate: false
+  xy: 1270, 506
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/RI
+  rotate: false
+  xy: 4, 506
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1
+BuildingIcons/RI's Landship Program
+  rotate: false
+  xy: 4, 506
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1
+NationIcons/Rhodes Island
+  rotate: false
+  xy: 4, 506
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1
+UnitIcons/RI's Landship
+  rotate: false
+  xy: 4, 506
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1
+BuildingIcons/RI's Medical Lab
+  rotate: false
+  xy: 1594, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Reunion Propaganda
+  rotate: false
+  xy: 1702, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Flying Messenger
+  rotate: false
+  xy: 692, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Operator's Workplace
+  rotate: false
+  xy: 1162, 690
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Originium Altar
+  rotate: false
+  xy: 1162, 582
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/RI's Clinic
+  rotate: false
+  xy: 1486, 594
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Medical Man
+  rotate: false
+  xy: 4, 242
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Talulah
+  rotate: false
+  xy: 522, 760
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ResourceIcons/Recruitment
+  rotate: false
+  xy: 1594, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/SP
+  rotate: false
+  xy: 1486, 270
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Operator's Workplace
+  rotate: false
+  xy: 1016, 298
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Operator's Workplace
+  rotate: false
+  xy: 1016, 298
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Originium Altar
+  rotate: false
+  xy: 1123, 303
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Originium Altar
+  rotate: false
+  xy: 1123, 303
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RI's Clinic
+  rotate: false
+  xy: 1984, 220
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RI's Clinic
+  rotate: false
+  xy: 1984, 220
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RI's Clinic-Modern era
+  rotate: false
+  xy: 1124, 386
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RI's Clinic-Modern era
+  rotate: false
+  xy: 1124, 386
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/'Talulah Artorius'
+  rotate: false
+  xy: 1240, 956
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/'Talulah Artorius'
+  rotate: false
+  xy: 1240, 956
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Amiya
+  rotate: false
+  xy: 1240, 888
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Amiya
+  rotate: false
+  xy: 1240, 888
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Amiya Chimera
+  rotate: false
+  xy: 1122, 906
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Amiya Chimera
+  rotate: false
+  xy: 1122, 906
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Amiya the CEO
+  rotate: false
+  xy: 1564, 946
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Amiya the CEO
+  rotate: false
+  xy: 1564, 946
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Armored Caster
+  rotate: false
+  xy: 1486, 702
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Armored Caster
+  rotate: false
+  xy: 1486, 702
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Armored Guard
+  rotate: false
+  xy: 1212, 436
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Armored Guard
+  rotate: false
+  xy: 1212, 436
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Art Caster
+  rotate: false
+  xy: 644, 9
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Art Caster
+  rotate: false
+  xy: 644, 9
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beagle
+  rotate: false
+  xy: 1888, 848
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Blood Revenger
+  rotate: false
+  xy: 1212, 398
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Blood Revenger
+  rotate: false
+  xy: 1212, 398
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bombtail
+  rotate: false
+  xy: 630, 494
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bombtail
+  rotate: false
+  xy: 630, 494
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bombtail-G
+  rotate: false
+  xy: 692, 270
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bombtail-G
+  rotate: false
+  xy: 692, 270
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Camouflaged Caster
+  rotate: false
+  xy: 750, 290
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Camouflaged Caster
+  rotate: false
+  xy: 750, 290
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crownslayer
+  rotate: false
+  xy: 838, 622
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Crownslayer
+  rotate: false
+  xy: 838, 622
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cuora
+  rotate: false
+  xy: 522, 484
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Elite Caster
+  rotate: false
+  xy: 707, 14
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elite Caster
+  rotate: false
+  xy: 707, 14
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Elite Shielder
+  rotate: false
+  xy: 1212, 350
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elite Shielder
+  rotate: false
+  xy: 1212, 350
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Exusiai
+  rotate: false
+  xy: 320, 112
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Exusiai
+  rotate: false
+  xy: 320, 112
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Frost Nova
+  rotate: false
+  xy: 994, 868
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Frost Nova
+  rotate: false
+  xy: 994, 868
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Greythroat
+  rotate: false
+  xy: 1888, 778
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Greythroat
+  rotate: false
+  xy: 1888, 778
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Grieving Ashes
+  rotate: false
+  xy: 536, 72
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Grieving Ashes
+  rotate: false
+  xy: 536, 72
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Guerrilla Herald
+  rotate: false
+  xy: 1270, 360
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Guerrilla Herald
+  rotate: false
+  xy: 1270, 360
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Guerrilla Shieldguard
+  rotate: false
+  xy: 1206, 302
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Guerrilla Shieldguard
+  rotate: false
+  xy: 1206, 302
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Guerrilla Siegebreaker
+  rotate: false
+  xy: 1810, 240
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Guerrilla Siegebreaker
+  rotate: false
+  xy: 1810, 240
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Defender
+  rotate: false
+  xy: 1868, 230
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Heavy Defender
+  rotate: false
+  xy: 1868, 230
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavyrain
+  rotate: false
+  xy: 1456, 848
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hoshiguma
+  rotate: false
+  xy: 1564, 770
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jessicat
+  rotate: false
+  xy: 1564, 702
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jessicat
+  rotate: false
+  xy: 1564, 702
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kroos
+  rotate: false
+  xy: 536, 4
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Kroos
+  rotate: false
+  xy: 536, 4
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lord of Fiends
+  rotate: false
+  xy: 1210, 800
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lord of Fiends
+  rotate: false
+  xy: 1210, 800
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Matterhorn
+  rotate: false
+  xy: 944, 800
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Monst3r
+  rotate: false
+  xy: 994, 936
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Monst3r
+  rotate: false
+  xy: 994, 936
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Myrtle
+  rotate: false
+  xy: 946, 506
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Myrtle
+  rotate: false
+  xy: 946, 506
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/NTR Knight
+  rotate: false
+  xy: 1054, 612
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/NTR Knight
+  rotate: false
+  xy: 1054, 612
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Patriot
+  rotate: false
+  xy: 1270, 722
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Patroit
+  rotate: false
+  xy: 1270, 722
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Possessed Defender
+  rotate: false
+  xy: 1926, 230
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Possessed Defender
+  rotate: false
+  xy: 1926, 230
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Power Armor
+  rotate: false
+  xy: 1378, 564
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Power Armor
+  rotate: false
+  xy: 1378, 564
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/RI's Landship
+  rotate: false
+  xy: 786, 896
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/RI's Landship
+  rotate: false
+  xy: 786, 896
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Revenger
+  rotate: false
+  xy: 1270, 322
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Revenger
+  rotate: false
+  xy: 1270, 322
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rosmontis
+  rotate: false
+  xy: 786, 798
+  size: 150, 90
+  orig: 150, 90
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rosmontis
+  rotate: false
+  xy: 786, 798
+  size: 150, 90
+  orig: 150, 90
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarkaz Caster
+  rotate: false
+  xy: 1264, 274
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sarkaz Caster
+  rotate: false
+  xy: 1264, 274
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarkaz Centurion
+  rotate: false
+  xy: 1016, 250
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sarkaz Centurion
+  rotate: false
+  xy: 1016, 250
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarkaz Elite
+  rotate: false
+  xy: 1074, 250
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sarkaz Elite
+  rotate: false
+  xy: 1074, 250
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarkaz Guerrilla Caster
+  rotate: false
+  xy: 1378, 750
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sarkaz Guerrilla Caster
+  rotate: false
+  xy: 1378, 750
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarkaz Guerrilla Fighter
+  rotate: false
+  xy: 428, 4
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sarkaz Guerrilla Fighter
+  rotate: false
+  xy: 428, 4
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarkaz Soldier
+  rotate: false
+  xy: 1132, 255
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sarkaz Soldier
+  rotate: false
+  xy: 1132, 255
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Silverash
+  rotate: false
+  xy: 1810, 278
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Silverash
+  rotate: false
+  xy: 1810, 278
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spec Ops Caster
+  rotate: false
+  xy: 1190, 226
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spec Ops Caster
+  rotate: false
+  xy: 1190, 226
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Surtr
+  rotate: false
+  xy: 1918, 386
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Technical Scout
+  rotate: false
+  xy: 1132, 217
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Technical Scout
+  rotate: false
+  xy: 1132, 217
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/W
+  rotate: false
+  xy: 800, 446
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/W
+  rotate: false
+  xy: 800, 446
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yeti Caster
+  rotate: false
+  xy: 1190, 188
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Yeti Caster
+  rotate: false
+  xy: 1190, 188
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Yeti Operative
+  rotate: false
+  xy: 1248, 178
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Yeti Operative
+  rotate: false
+  xy: 1248, 178
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Scout-Infected
+  rotate: false
+  xy: 1190, 264
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scout-Reunion
+  rotate: false
+  xy: 1190, 264
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Wrath
+  rotate: false
+  xy: 1190, 264
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Wrath
+  rotate: false
+  xy: 1190, 264
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+UnitIcons/'Talulah Artorius'
+  rotate: false
+  xy: 1348, 916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Amiya
+  rotate: false
+  xy: 1456, 916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Amiya Chimera
+  rotate: false
+  xy: 4, 34
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Amiya the CEO
+  rotate: false
+  xy: 1672, 916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Tank Rifle
+  rotate: false
+  xy: 1888, 916
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Caster
+  rotate: false
+  xy: 1564, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Guard
+  rotate: false
+  xy: 1672, 808
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Art Caster
+  rotate: false
+  xy: 1780, 808
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Beagle
+  rotate: false
+  xy: 212, 134
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Blood Revenger
+  rotate: false
+  xy: 212, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Revenger
+  rotate: false
+  xy: 212, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bombtail
+  rotate: false
+  xy: 730, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bombtail-G
+  rotate: false
+  xy: 730, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Camouflaged Caster
+  rotate: false
+  xy: 838, 690
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Crownslayer
+  rotate: false
+  xy: 838, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cuora
+  rotate: false
+  xy: 476, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Elite Caster
+  rotate: false
+  xy: 476, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Elite Shielder
+  rotate: false
+  xy: 320, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Exusiai
+  rotate: false
+  xy: 320, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Frost Nova
+  rotate: false
+  xy: 428, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Winter's Scar
+  rotate: false
+  xy: 428, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Greythroat
+  rotate: false
+  xy: 536, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Grieving Ashes
+  rotate: false
+  xy: 584, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guerrilla Herald
+  rotate: false
+  xy: 584, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guerrilla Shieldguard
+  rotate: false
+  xy: 644, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Guerrilla Siegebreaker
+  rotate: false
+  xy: 644, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Defender
+  rotate: false
+  xy: 1348, 808
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavyrain
+  rotate: false
+  xy: 1456, 740
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hoshiguma
+  rotate: false
+  xy: 1672, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jessicat
+  rotate: false
+  xy: 1780, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kroos
+  rotate: false
+  xy: 1102, 798
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lord of Fiends
+  rotate: false
+  xy: 522, 552
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Matterhorn
+  rotate: false
+  xy: 946, 692
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Monst3r
+  rotate: false
+  xy: 946, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Myrtle
+  rotate: false
+  xy: 1054, 690
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/NTR Knight
+  rotate: false
+  xy: 1054, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Patriot
+  rotate: false
+  xy: 1270, 614
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Patriot's Spear
+  rotate: false
+  xy: 1270, 398
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Possessed Defender
+  rotate: false
+  xy: 1378, 632
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Power Armor
+  rotate: false
+  xy: 1378, 456
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/RI's Armaments
+  rotate: false
+  xy: 1378, 348
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/RI's Engine
+  rotate: false
+  xy: 1486, 486
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/RI's Hull
+  rotate: false
+  xy: 1486, 378
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/RI's Tracks
+  rotate: false
+  xy: 1702, 592
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rosmontis
+  rotate: false
+  xy: 1594, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rosmontis's Tactical Equipment
+  rotate: false
+  xy: 1702, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarkaz Caster
+  rotate: false
+  xy: 1594, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarkaz Centurion
+  rotate: false
+  xy: 1702, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarkaz Elite
+  rotate: false
+  xy: 1702, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarkaz Soldier
+  rotate: false
+  xy: 1702, 268
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarkaz Guerrilla Caster
+  rotate: false
+  xy: 1810, 562
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarkaz Guerrilla Fighter
+  rotate: false
+  xy: 1810, 454
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shadow
+  rotate: false
+  xy: 1810, 346
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Silverash
+  rotate: false
+  xy: 1918, 562
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spec Ops Caster
+  rotate: false
+  xy: 1918, 454
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Surtr
+  rotate: false
+  xy: 1918, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Technical Scout
+  rotate: false
+  xy: 692, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/W
+  rotate: false
+  xy: 800, 338
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wrath
+  rotate: false
+  xy: 908, 398
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yeti Caster
+  rotate: false
+  xy: 1016, 396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Yeti Operative
+  rotate: false
+  xy: 908, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Arts
+  rotate: false
+  xy: 268, 298
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dodge
+  rotate: false
+  xy: 808, 280
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Twilight
+  rotate: false
+  xy: 1248, 216
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

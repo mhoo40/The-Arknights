@@ -1,0 +1,139 @@
+[
+	{
+		"name": "Yeti Squadron",
+		"uniqueTo": "Reunion",
+		"cost": 150,
+		"happiness": 3,
+		"faith": 2,
+		"isNationalWonder": true,
+		"uniques": [
+		"Destroyed when the city is captured",
+		"[+15]% Production when constructing [non-air] units [in cities with a [Yeti Squadron]]",
+           	"[+1 Production] from [Snow] tiles [in this city]",
+	        "Cost increases by [30] per owned city",
+		"Must be next to [Snow]",
+        	],
+        	"requiredTech": "Military Science"
+	},
+	{
+		"name": "Patriot's Guerrillas",
+		"uniqueTo": "Reunion",
+		"cost": 200,
+		"happiness": 3,
+		"isNationalWonder": true,
+		"uniques": [
+		"Destroyed when the city is captured",
+		"Only available <if [Arsenal] is constructed in all [non-[Puppeted]] cities>",
+		"[+20]% Production when constructing [Patriot's] units [in all cities]",
+		"All newly-trained [all] units [in this city] receive the [Infected Empathy] promotion",
+		"Cost increases by [30] per owned city",
+		],
+		"requiredTech": "Radar"
+	},
+	{
+		"name": "Reunion Propaganda",
+		"uniqueTo": "Reunion",
+		"replaces": "Broadcast Tower",
+		"requiredTech": "Radio",
+		"maintenance": 3,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "[+15]% growth [in this city]",
+			"[-15]% Unhappiness from [Population] [in this city]"
+        ]
+	},
+	{
+		"name": "Angelina the Part-timer",
+		"uniqueTo": "Rhodes Island",
+		"requiredTech": "Education",
+        "uniques": [
+			"Consumes [1] [Recruitment]",
+			"Only available<if [Public School] is constructed>",
+            "[Wounded] Units adjacent to this city heal [5] HP per turn when healing",
+			"[5] HP when healing<in cities with a [Angelina the Part-timer]>",
+			"Limited to [1] per Civilization",
+        ]
+		"civilopediaText": [{"text": "What is her part-time job? I don't want to know."}]
+	},
+	{
+		"name": "The Flying Messenger",
+		"uniqueTo": "Rhodes Island",
+		"requiredTech": "Astronomy",
+        "uniques": [
+			"Only available<if [Angelina the Part-timer] is constructed>",
+			"[-17]% maintenance costs<for [Land] units><in cities with a [The Flying Messenger]>",
+			"Limited to [3] per Civilization",
+        ]
+		"civilopediaText": [{"text": "The effect stacks (Unintentional). Let's just call it a feature."}]
+	},
+	{
+		"name": "Gravity Controller",
+		"uniqueTo": "Rhodes Island",
+		"requiredTech": "Atomic Theory",
+		"cost": 300,
+		"isNationalWonder": true,
+        "uniques": [
+			"Cannot be purchased",
+			"Only available<if [Angelina the Part-timer] is constructed>",
+			"Destroyed when the city is captured",
+			"Enemy [{non-[Armored]} {non-[Water]} {non-[Air]}] units must spend [1] extra movement points when inside your territory",
+        ],
+		"civilopediaText": [{"text": "Yes, I'm a Fox girl enthusiast."}]
+	},
+	{
+		"name": "Kal'tist",
+		"uniqueTo": "Rhodes Island",
+		"requiredTech": "Archaeology",
+        "uniques": [
+			"Cannot be purchased",
+			"[+20]% Great Person generation [in this city]",
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization",
+        ],
+		"civilopediaText": [{"text": "An old hag that outlived the dinosaurs."}]
+	},
+	{
+		"name": "PRTS",
+		"uniqueTo": "Rhodes Island",
+		"requiredTech": "Electronics",
+		"cost": 300,
+		"isNationalWonder": true,
+        "uniques": [
+			"Consumes [3] [Aluminum]",
+			"Comment [Build atleast 10 RI's clinics to unlock this building.]",
+			"Unbuildable<when number of [Clinic point] is less than [10]><hidden from users>",
+			"[+20]% Production when constructing [non-[Water]] units [in capital]",
+			"Comment [Combat [Land] units gain 1 extra movement.]",
+			"[+1] Movement <for [{Land} {non-[Civilian]} {non-[Spaceship part]}] units><hidden from users>",
+			"Destroyed when the city is captured",
+        ],
+		"civilopediaText": [{"text": "Wife's an AI? How sad."}]
+	},
+	{
+        "name": "RI's Landship Program",
+		"uniqueTo": "Rhodes Island",
+		"replaces": "Apollo Program",
+        "cost": 750,
+        "isNationalWonder": true,
+        "uniques": [
+            "Enables construction of Spaceship parts",
+            "Triggers a global alert upon completion",
+            "Hidden when [Harmacists] Victory is disabled",
+            "Cannot be hurried"
+        ],
+        "requiredTech": "Rocketry"
+    },
+	{
+		//Isolation facilities
+		"name": "RI's Medical Lab",
+		"uniqueTo": "Rhodes Island",
+		"replaces": "Hospital",
+		"requiredTech": "Biology",
+		"specialistSlots": {"Scientist": 1},
+		"maintenance": 2,
+        "science": 1,
+		"uniques": [
+            "[+1 Science] from [RI's Clinic] tiles [in this city]",
+        ]
+	},
+]

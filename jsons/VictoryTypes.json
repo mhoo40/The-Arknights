@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Harmacists",
+        "victoryScreenHeader": "Complete all the \"Rhodes Island\" parts\nto win!",
+        "milestones": [
+            "Build [RI's Landship Program]",
+			"Add all [RI's parts] in capital",
+        ],
+		"requiredSpaceshipParts": [
+            "RI's Hull",
+            "RI's Armaments",
+            "RI's Engine",
+            "RI's Engine",
+            "RI's Tracks",
+            "RI's Tracks"
+        ],
+        "victoryString": "Rhodes Island, your valor and unity have carried us to victory today. Let this triumph inspire us as we continue our mission to heal Terra and protect the infected! (And cause war crimes)",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]

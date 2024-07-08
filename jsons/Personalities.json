@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Reunion's Personalities",
+		"priorities": {   
+			"Honor": 50,
+		}
+		"Military": 8,
+		"Agressive": 8,
+		"War": 7,
+    },
+	{
+        "name": "RI's Personalities",
+		"Commerce": 7,
+		"War": 3,
+		"Diplomacy": 7,
+		"Loyal": 9,
+    }
+]

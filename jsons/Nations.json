@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Reunion",
+		"leaderName": "Talulah",
+		"adjective": ["Infected"],
+		"startBias": ["Tundra", "Snow"],
+		"style": "Infected",
+		"personality": "Reunion's Personalities",
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "This land may reject us, but we won't succumb to the disease! We will find a way to save ourselves!",
+		"startIntroPart2": "We are running out of time. The Oripathy is relentless. We have to fight, even if it means becoming monsters ourselve!",
+		
+		"declaringWar": "Resistance is futile. Join Reunion, or be crushed!",
+		"attacked": "We are not monsters! We are the Infected, and we are fighting for our right to exist!",
+		"defeated": "Maybe we're not heroes, but we're fighting for our lives. Can't you understand that?",
+		"introduction": "We are Reunion. The Infected's shield, their voice, their fury!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want now?",
+
+		"tradeRequest": "We assure you, this exchange will be mutually beneficial.",
+		
+		"outerColor": [180, 1, 1],
+		"innerColor": [254, 254, 254],
+		"uniqueName": "The Oppressed",
+		"uniques": [
+			"[+15]% Production when constructing [Military] units [in all cities]",
+			"Earn [75]% of killed [Military] unit's [Strength] as [Gold]",
+			"Gifts of Gold to City-States generate [-50]% more Influence",
+			"[+50]% City-State Influence degradation",
+		],
+		"cities": ["Reunion's HQ","Reunion's Camp","Chernobog","Liberation Fronts","Rebel Outpost","Scavenger Holds","Spearhead Garrison","Forsaken Workgrounds",
+			"Rebel Camps","Dispossessed Havens","FrostNova's Yeti Squadron","Patriot's Guerrillas Group","My backyard","Undercity Networks","Desolation Plains","Abandoned City","Talulah Cult","Tomatulah the City",
+			"A random place","Infected Citadel","Training Grounds","Boot Camp","I'm running out of names"]
+	},
+	{
+		"name": "Rhodes Island",
+		"leaderName": "Medical Man",
+		"adjective": ["Operator"],
+		"personality": "RI's Personalities",
+		"preferredVictoryType": "Harmacists",
+		
+		"startIntroPart1": "Welcome to Rhodes Island. We are an organization dedicated to addressing the Oripathy crisis and ensuring the safety and well-being of all inhabitants of Terra. Together, we will find a path to a brighter future.",
+		"startIntroPart2": "Our actions are all for the purpose of healing. No matter where we go, no matter what we face, Rhodes Island will fight for the survival of all.",
+		
+		"declaringWar": "For the future of Terra, we declare war on those who seek to bring chaos and destruction.",
+		"attacked": "To all who threaten the peace and safety of Terra, Rhodes Island stands resolute.\nWe have strived for healing and protection, but now we must take up arms to defend what is right.",
+		"defeated": "Though we have been defeated today, the spirit of Rhodes Island remains unbroken. We have faced insurmountable odds before and have always risen again.",
+		"introduction": "Rhodes Island Pharmaceuticals, at your service.",
+		
+		"neutralHello": "How are you doing?",
+		"hateHello": "What do you want now?",
+
+		"tradeRequest": "Rhodes Island Pharmaceuticals seeks to establish a trade partnership with your nation.",
+		
+		"outerColor": [31, 59, 77],
+		"innerColor": [254, 254, 254],
+		"uniqueName": "Harmacy",
+		"uniques": [
+			"[+1 Science] from every specialist [in all cities]",
+			"[+33]% Production when constructing [Science] wonders [in capital]",
+			"[+33]% Production when constructing [Science] buildings [in capital]",
+			"Science gained from research agreements [+50]%",
+			"Comment [Special operators gain SP every turn, use it to activate their skills.]",
+			"Comment ['Instantly provides [X] [SP]' means Activate skill]",
+			"Comment [The 'spaceship parts' have an option to provide hidden resources, use it on every part to unlock a special unit.]",
+		],
+		"cities": ["RI's Control Center","RI's Power Plant","RI's Trading Post","RI's Factory","RI's Workshop","RI's Training Area","RI's Medical Bay",
+		"RI's Armory","RI's Recreation Area","RI's Data Center","RI's Hangar Bay","Botanical Garden","RI's Logistics Hub","BlackSteel's Division",
+		"Columbia's Division","RIM Billiton's Division","Penguin Logistics","Lungmen's Division",
+		]
+	},
+]

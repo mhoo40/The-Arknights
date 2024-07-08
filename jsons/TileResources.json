@@ -1,0 +1,253 @@
+[
+	{
+		"name": "W's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+    {
+		"name": "Beagle's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Beagle's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Cuora's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Cuora's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Matterhorn's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Matterhorn's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Heavyrain's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Heavyrain's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Hoshiguma's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Hoshiguma's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Jessicat's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Jessicat's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Greythroat's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Greythroat's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Exusiai's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Exusiai's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "CEO's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "CEO's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Chimera's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Chimera's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "LoF's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "LoF's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Silverash's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Silverash's SP",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Surtr's CD",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Recruitment",
+		"resourceType": "Bonus",
+	},
+	{
+		"name": "RI's T",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "RI's H",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "RI's E",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "RI's A",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Stockpiled",
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+	{
+		"name": "Clinic point",
+		"resourceType": "Bonus",
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+        ]
+	},
+]
