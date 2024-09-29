@@ -1,10 +1,10 @@
 [
     {
         "name": "Originium Altar",
-		"uniqueTo": "Reunion",
+	"uniqueTo": "Reunion",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-		"turnsToBuild": 5,
-		"techRequired": "Combustion",
+	"turnsToBuild": 5,
+	"techRequired": "Combustion",
         "uniques": [
             "Gives a defensive bonus of [+15]%",
             "Adjacent enemy units ending their turn take [15] damage",
@@ -13,33 +13,34 @@
     },
 	{
         "name": "RI's Clinic",
-		"uniqueTo": "Rhodes Island",
+	"uniqueTo": "Rhodes Island",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
-		"turnsToBuild": 7,
-		"techRequired": "Civil Service",
-		"food": -1,
-		"gold": 1,
-		"faith": 1,
-		"uniques": [
-			"Provides [1] [Clinic point]<hidden from users>",
-			"Gives a defensive bonus of [-30]%",
-            "[+2 Gold] <after discovering [Economics]>",
-			"[+1 Faith] <after discovering [Pharmaceuticals]>",
-			"Pillaging this improvement yields approximately [+2 Food, +5 Gold]"
+	"turnsToBuild": 7,
+	"techRequired": "Civil Service",
+	"food": -1,
+	"gold": 1,
+	"faith": 1,
+	"uniques": [
+		"Provides [1] [Clinic point]<hidden from users>",
+		"Gives a defensive bonus of [-30]%",
+            	"[+1 Gold] <after discovering [Economics]>",
+		"[+1 Production] <after discovering [Industrialization]>",
+		"[+1 Faith] <after discovering [Pharmaceuticals]>",
+		"Pillaging this improvement yields approximately [+2 Food, +5 Gold]"
         ],
     },
 	{
         "name": "Operator's Workplace",
-		"uniqueTo": "Rhodes Island",
+	"uniqueTo": "Rhodes Island",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Hill"],
-		"turnsToBuild": 5,
-		"uniques": [
-			"Provides [1] [Recruitment]",
-			//Doesn't affect the stats but makes it more enticing for AI			
-			"[+1 Food]<for [AI player]>",
-			//After building this, AI can't remove, cuz they will when they have a better improvement
-			//This could lead to 0 Recruitment in late game			
-			"Irremovable<for [AI player]>",
+	"turnsToBuild": 5,
+	"uniques": [
+		"Provides [1] [Recruitment]",
+		//Doesn't affect the stats but makes it more enticing for AI			
+		"[+1 Food]<for [AI player]>",
+		//After building this, AI can't remove, cuz they will when they have a better improvement
+		//This could lead to 0 Recruitment in late game			
+		"Irremovable<for [AI player]>",
         ],
     },
 ]
