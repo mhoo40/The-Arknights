@@ -142,52 +142,6 @@
 		"Can see invisible [All] units",	
 		],
 	},
-	{
-		"name": "Sniper",
-		"unitType": "Archery",
-		"movement": 15,
-		"range": 5,
-		"strength": 10,
-		"rangedStrength": 12,
-		"cost": 0,
-		"uniques": [
-		"Unbuildable",
-		"Will not be displayed in Civilopedia",
-		"Never appears as a Barbarian unit",
-		"Limited to [1] per Civilization",
-		],
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Dummy",
-		"unitType": "Archery",
-		"movement": 15,
-		"strength": 120,
-		"cost": 0,
-		"uniques": [
-		"Unbuildable",
-		"Will not be displayed in Civilopedia",
-		"Never appears as a Barbarian unit",
-		"Limited to [1] per Civilization",
-		],
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Nukery",
-		"unitType": "Missile",
-		"movement": 1,
-       	 	"strength": 200,
-       	 	"rangedStrength": 200,
-       	 	"range": 12,
-        	"cost": 0,
-        	"uniques": [
-		"Unbuildable",
-		"Will not be displayed in Civilopedia",
-            	"Nuclear weapon of Strength [1]",
-            	"Blast radius [1]",
-        	],
-        	"attackSound": "nuke"
-	},
 
 	//Reunion Units
 	{
