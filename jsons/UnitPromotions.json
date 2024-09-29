@@ -226,7 +226,7 @@
         "name": "Dodge I",
         "prerequisites": ["Shock I","Drill I","Ambush Formation I","Accuracy I","Barrage I","Anti-Naval I"],
         "uniques": [
-            "Withdraws before melee combat ([20]%)"
+            "Withdraws before melee combat <with [20]% chance>"
         ],
         "unitTypes": ["Assassin","Art Melee","Sword","Gunpowder","Archery","Ranged Gunpowder"]
         },
@@ -234,7 +234,7 @@
         "name": "Dodge II",
         "prerequisites": ["Dodge I"],
         "uniques": [
-            "Withdraws before melee combat ([40]%)"
+            "Withdraws before melee combat <with [40]% chance>"
         ],
         "unitTypes": ["Assassin","Art Melee","Sword","Gunpowder","Archery","Ranged Gunpowder"]
         },
@@ -242,7 +242,7 @@
         "name": "Dodge III",
         "prerequisites": ["Dodge II"],
         "uniques": [
-            "Withdraws before melee combat ([60]%)"
+            "Withdraws before melee combat <with [60]% chance>"
         ],
 	"units": ["W"],
         "unitTypes": ["Assassin","Art Melee","Sword","Gunpowder"]
@@ -251,7 +251,7 @@
         "name": "Dodge IV",
         "prerequisites": ["Dodge III"],
         "uniques": [
-            "Withdraws before melee combat ([80]%)"
+            "Withdraws before melee combat <with [80]% chance>"
         ],
         "unitTypes": ["Assassin"]
         },
